@@ -1,3 +1,4 @@
+
 function Obj() {
     this.member = 123;
 }
